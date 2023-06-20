@@ -1,10 +1,3 @@
-
-- 🔭 I’m currently working on 
-
-- 🔭 [Cinex App](https://cinex0.web.app/)
-
-- 🌱 I’m currently learning **Postgresql**
-
 <h1 align="center">Hi 👋, I'm Javier Albornoz</h1>
 <h3 align="center">A passionate javaScript developer from Venezuela 🇻🇪</h3>
 
